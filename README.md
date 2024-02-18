@@ -16,5 +16,6 @@ ADAPTER OBJECTS:
 <li>RefrigeratorAdapter - An adapter for plugging a refrigerator into a standard power outlet. It adapts the Refrigerator to the PowerOutlet interface, translating plugIn() to startCooling().
 <li>SmartphoneAdapter - An adapter for plugging a smartphone charger into a standard power outlet. It adapts the SmartphoneCharger to the PowerOutlet interface, translating plugIn() to chargePhone().
 
-## UML Class Diagram
+## UML Diagram
+- AdapterPattern
 ![lll](https://github.com/ErikkaEnaje/adapterPattern/assets/142382057/f43746d5-e22b-4bc9-b5e4-5b66038182c5)
